@@ -1,0 +1,10 @@
+{
+  "name": "Mentor Connect AI",
+  "description": "Intelligent mentorship platform connecting students with verified college seniors and alumni based on career goals, roadmaps, and explainable AI matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
